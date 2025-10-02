@@ -6,12 +6,13 @@ Objectives:
 
 You will be using the mathematical operators listed:
 ```
-+ addition. can concatenate (join) 2 strings
++ addition of two numbers. It can also concatenate (join) 2 strings
 - subtraction. 
-* multiplication. an integer can also multiply by a string
+* multiplication of 2 numbers. A second operation is that an integer can also multiply by a string
 / division.  all answers are converted to floats even if you do integer / integer
 ** exponents
 % modulus (shows the remainder when two numbers are divided)
+// div 2 numbers, and ignore the remainder if they don't divide evenly.
 ```
 
 Note:  When a math operation involves a float and an int, the evaluated expression will automatically be converted to a float.
